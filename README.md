@@ -28,4 +28,4 @@ _para las dependencias_
 
 * **Marcos Villabasa** - *Challenge completo* - (https://github.com/marcosvillabasa)
 
-⌨️ por [marcosvillabasa](https://github.com/Villanuevand) 😊
+⌨️ por (https://github.com/Villanuevand) 😊
